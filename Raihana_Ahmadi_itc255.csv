@@ -1,0 +1,35 @@
+Gender,Age,Height(cm),Sport,Level of Satisfaction,Purchase Type
+F,24,160 cm,yes,Very Satisfied,Skirt
+M,19,178,yes,Satisfied,Tshirt
+F,21,159,No,Satisfied,Scarf
+F,28,168,No,Very Satisfied,Cloth
+F,23,170,yes,Very Satisfied,Back
+F,30,160,yes,Very Satisfied,Suit
+M,29,180,yes,Very Satisfied,Shirt
+M,26,175,yes,Very Satisfied,Shoes
+F,22,158,No,Satisfied,Shoes
+F,25,165,No,Satisfied,Pants
+F,23,168,No,not Satisfied,Scarf
+F,21,159,yes,Very Satisfied,Shirt
+F,26,168,yes,Very Satisfied,Skirt
+F,24,160,yes,Very Satisfied,Shoes
+F,22,165,yes,Very Satisfied,Shirt
+F,32,167,No,Very Satisfied,Suit
+F,26,155,yes,Very Satisfied,Skirt
+F,25,164,yes,Very Satisfied,Cloth
+F,18,156,yes,Very Satisfied,Shoes
+F,34,170,No,Very Satisfied,Back
+F,40,163,yes,Very Satisfied,Scarf
+F,23,158,yes,Very Satisfied,Cloth
+F,32,167,yes,Satisfied,Scarf
+F,21,164,yes,Very Satisfied,Suit
+F,25,158,No,Very Satisfied,Shirt
+F,35,162,yes,not Satisfied,Cloth
+F,31,160,yes,Very Satisfied,Suit
+F,24,167,yes,Very Satisfied,Pants
+F,27,150,No,Very Satisfied,Pants
+F,22,167,yes,Satisfied,Shoes
+F,21,160,yes,Very Satisfied,Shirt
+F,17,175,yes,Very Satisfied,Skirt
+F,19,169,yes,Very Satisfied,Suit
+F,29,168,No,Very Satisfied,Cloth
